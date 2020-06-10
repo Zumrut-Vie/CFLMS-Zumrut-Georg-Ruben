@@ -1,0 +1,30 @@
+family = `[
+    {
+        "firstName": "Mark",
+        "lastName": "Anderson",
+        "nickName": "Marky",
+        "favFood": "fish",
+        "hobby": "chilling",
+    },
+    {
+        "firstName": "Dirk",
+        "lastName": "Anderson",
+        "nickName": "Dirky",
+        "favFood": "chicken",
+        "hobby": "biking",
+    },
+    {
+        "firstName": "Mary",
+        "lastName": "Anderson",
+        "nickName": "Maryjane",
+        "favFood": "knudel",
+        "hobby": "hiking",
+    },
+    {
+        "firstName": "Lisa",
+        "lastName": "Anderson",
+        "nickName": "Lis",
+        "favFood": "steak",
+        "hobby": "reading",
+    }
+]`
